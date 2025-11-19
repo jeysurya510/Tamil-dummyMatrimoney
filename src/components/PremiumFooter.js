@@ -54,8 +54,8 @@ const PremiumFooter = () => {
           <div className="col-lg-2 col-md-3 col-6 mb-4">
             <h6 className="text-white mb-3">Contact Info</h6>
             <div className="text-muted">
-              <p className="mb-2 small">📞 +91 98765 43210</p>
-              <p className="mb-2 small">✉️ info@tamilsangamam.com</p>
+              <p className="mb-2 small">📞 +91 6383271397</p>
+              <p className="mb-2 small">✉️ info@dummymatrimoney.com</p>
               <p className="mb-0 small">📍 Chennai, Tamil Nadu</p>
             </div>
           </div>
@@ -67,8 +67,9 @@ const PremiumFooter = () => {
         <div className="row align-items-center">
           <div className="col-md-6 mb-3 mb-md-0">
             <p className="mb-0 text-muted small">
-              &copy; 2024 TamilSangamam. All rights reserved.
+              &copy; 2025 DummyMatrimoney. All rights reserved.
             </p>
+            <p>developed by Jeysurya </p>
           </div>
           <div className="col-md-6 text-md-end">
             <div className="social-links">
