@@ -61,8 +61,8 @@ const Contact = () => {
                 <div className="contact-details">
                   <h6>Our Office</h6>
                   <p className="text-muted mb-0">
-                    123 Mount Road, T Nagar<br />
-                    Chennai, Tamil Nadu 600017
+                   Padmanabha Nagar, Choolaimedu<br />
+                    Chennai, Tamil Nadu 600026
                   </p>
                 </div>
               </div>
@@ -74,8 +74,8 @@ const Contact = () => {
                 <div className="contact-details">
                   <h6>Phone Number</h6>
                   <p className="text-muted mb-0">
-                    +91 98765 43210<br />
-                    +91 87654 32109
+                    +91 000000000<br />
+                    +91 1111111111
                   </p>
                 </div>
               </div>
@@ -87,7 +87,7 @@ const Contact = () => {
                 <div className="contact-details">
                   <h6>Email Address</h6>
                   <p className="text-muted mb-0">
-                    support@tamilsangamam.com<br />
+                    support@dummymatrimoney.com<br />
                     info@tamilsangamam.com
                   </p>
                 </div>
