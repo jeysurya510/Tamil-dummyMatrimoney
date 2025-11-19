@@ -60,6 +60,11 @@ const PremiumHeader = () => {
               </Link>
             </li>
             <li className="nav-item">
+              <Link className={isActiveLink('/pricing')} to="/pricing" onClick={() => setIsMobileMenuOpen(false)}>
+                Pricing
+              </Link>
+            </li>
+            <li className="nav-item">
               <Link className={isActiveLink('/contact')} to="/contact" onClick={() => setIsMobileMenuOpen(false)}>
                 Contact
               </Link>

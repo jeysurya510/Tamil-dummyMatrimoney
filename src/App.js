@@ -10,6 +10,7 @@ import PremiumFooter from './components/PremiumFooter';
 
 // Pages
 import Home from './pages/Home';
+import Pricing from './pages/Pricing';
 import Search from './pages/Search';
 import Profiles from './pages/Profiles';
 import Login from './pages/Login';
@@ -29,6 +30,7 @@ function App() {
             <Route path="/search" element={<Search />} />
             <Route path="/profiles" element={<Profiles />} />
             <Route path="/success-stories" element={<SuccessStories />} />
+            <Route path="/pricing" element={<Pricing />} />
             <Route path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />
             <Route path="/contact" element={<Contact />} />
